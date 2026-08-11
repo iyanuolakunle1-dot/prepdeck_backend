@@ -1,0 +1,30 @@
+{
+  "subject": "Physics",
+  "questions": [
+    { "id": "phy-001", "topic": "Mechanics", "difficulty": "easy", "question": "The SI unit of force is:", "options": ["Joule", "Newton", "Watt", "Pascal"], "correct_answer": "Newton" },
+    { "id": "phy-002", "topic": "Mechanics", "difficulty": "easy", "question": "Speed is defined as:", "options": ["distance x time", "distance / time", "time / distance", "force x distance"], "correct_answer": "distance / time" },
+    { "id": "phy-003", "topic": "Mechanics", "difficulty": "medium", "question": "A body moving with constant velocity has an acceleration of:", "options": ["increasing", "decreasing", "zero", "constant but not zero"], "correct_answer": "zero" },
+    { "id": "phy-004", "topic": "Mechanics", "difficulty": "medium", "question": "Newton's second law of motion states that force equals:", "options": ["mass x velocity", "mass x acceleration", "mass / acceleration", "weight x distance"], "correct_answer": "mass x acceleration" },
+    { "id": "phy-005", "topic": "Electricity", "difficulty": "easy", "question": "The SI unit of electric current is:", "options": ["Volt", "Ohm", "Ampere", "Watt"], "correct_answer": "Ampere" },
+    { "id": "phy-006", "topic": "Electricity", "difficulty": "medium", "question": "Ohm's law states that V equals:", "options": ["I/R", "I x R", "R/I", "I + R"], "correct_answer": "I x R" },
+    { "id": "phy-007", "topic": "Electricity", "difficulty": "medium", "question": "Which device is used to measure electric current?", "options": ["Voltmeter", "Ammeter", "Barometer", "Thermometer"], "correct_answer": "Ammeter" },
+    { "id": "phy-008", "topic": "Waves", "difficulty": "easy", "question": "The distance between two successive crests of a wave is called:", "options": ["amplitude", "frequency", "wavelength", "period"], "correct_answer": "wavelength" },
+    { "id": "phy-009", "topic": "Waves", "difficulty": "medium", "question": "The speed of sound is greatest in:", "options": ["vacuum", "air", "water", "steel"], "correct_answer": "steel" },
+    { "id": "phy-010", "topic": "Optics", "difficulty": "medium", "question": "A ray of light bends when passing from one medium to another. This is called:", "options": ["reflection", "refraction", "diffraction", "dispersion"], "correct_answer": "refraction" },
+    { "id": "phy-011", "topic": "Optics", "difficulty": "easy", "question": "The image formed by a plane mirror is:", "options": ["real and inverted", "virtual and upright", "real and upright", "virtual and inverted"], "correct_answer": "virtual and upright" },
+    { "id": "phy-012", "topic": "Thermodynamics", "difficulty": "medium", "question": "Heat always flows from a body of:", "options": ["low temperature to high temperature", "high temperature to low temperature", "equal temperature", "no direction"], "correct_answer": "high temperature to low temperature" },
+    { "id": "phy-013", "topic": "Mechanics", "difficulty": "hard", "question": "A car accelerates from 0 to 20 m/s in 5 seconds. What is its acceleration?", "options": ["2 m/s²", "4 m/s²", "5 m/s²", "10 m/s²"], "correct_answer": "4 m/s²" },
+    { "id": "phy-014", "topic": "Electricity", "difficulty": "hard", "question": "Two resistors of 4Ω and 6Ω are connected in series. What is the total resistance?", "options": ["2Ω", "10Ω", "24Ω", "1.5Ω"], "correct_answer": "10Ω" },
+    { "id": "phy-015", "topic": "Thermodynamics", "difficulty": "easy", "question": "The unit of energy in the SI system is:", "options": ["Watt", "Newton", "Joule", "Pascal"], "correct_answer": "Joule" },
+    { "id": "phy-016", "topic": "Mechanics", "difficulty": "hard", "question": "A body of mass 5kg is acted on by a force of 20N. What is its acceleration?", "options": ["2 m/s²", "4 m/s²", "5 m/s²", "100 m/s²"], "correct_answer": "4 m/s²" },
+    { "id": "phy-017", "topic": "Mechanics", "difficulty": "hard", "question": "A ball is thrown vertically upward with a velocity of 20 m/s. Taking g = 10 m/s², how long does it take to reach maximum height?", "options": ["1 s", "2 s", "3 s", "4 s"], "correct_answer": "2 s" },
+    { "id": "phy-018", "topic": "Electricity", "difficulty": "hard", "question": "Three resistors of 2Ω, 3Ω and 6Ω are connected in parallel. Find the total resistance.", "options": ["1Ω", "11Ω", "0.5Ω", "2Ω"], "correct_answer": "1Ω" },
+    { "id": "phy-019", "topic": "Waves", "difficulty": "hard", "question": "A wave has a frequency of 50Hz and wavelength 4m. What is its speed?", "options": ["12.5 m/s", "200 m/s", "54 m/s", "46 m/s"], "correct_answer": "200 m/s" },
+    { "id": "phy-020", "topic": "Optics", "difficulty": "hard", "question": "The critical angle of a medium is the angle of incidence for which the angle of refraction is:", "options": ["0°", "45°", "90°", "180°"], "correct_answer": "90°" },
+    { "id": "phy-021", "topic": "Thermodynamics", "difficulty": "hard", "question": "How much heat is required to raise the temperature of 2kg of water by 5°C? (specific heat capacity of water = 4200 J/kg°C)", "options": ["8,400 J", "21,000 J", "42,000 J", "10,500 J"], "correct_answer": "42,000 J" },
+    { "id": "phy-022", "topic": "Mechanics", "difficulty": "medium", "question": "Momentum is defined as the product of:", "options": ["force and time", "mass and velocity", "mass and acceleration", "force and distance"], "correct_answer": "mass and velocity" },
+    { "id": "phy-023", "topic": "Electricity", "difficulty": "medium", "question": "The device used to increase or decrease AC voltage is called a:", "options": ["generator", "transformer", "rectifier", "capacitor"], "correct_answer": "transformer" },
+    { "id": "phy-024", "topic": "Waves", "difficulty": "medium", "question": "Sound waves are an example of:", "options": ["transverse waves", "longitudinal waves", "electromagnetic waves", "standing waves only"], "correct_answer": "longitudinal waves" },
+    { "id": "phy-025", "topic": "Mechanics", "difficulty": "hard", "question": "What is the work done by a force of 15N moving an object 4m in the direction of the force?", "options": ["60 J", "19 J", "3.75 J", "45 J"], "correct_answer": "60 J" }
+  ]
+}

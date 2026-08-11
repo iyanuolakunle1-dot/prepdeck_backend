@@ -1,0 +1,30 @@
+{
+  "subject": "Chemistry",
+  "questions": [
+    { "id": "chem-001", "topic": "Atomic Structure", "difficulty": "easy", "question": "The smallest particle of an element that can take part in a chemical reaction is:", "options": ["molecule", "atom", "ion", "electron"], "correct_answer": "atom" },
+    { "id": "chem-002", "topic": "Atomic Structure", "difficulty": "medium", "question": "The number of protons in an atom is called its:", "options": ["mass number", "atomic number", "atomic mass", "isotope number"], "correct_answer": "atomic number" },
+    { "id": "chem-003", "topic": "Atomic Structure", "difficulty": "medium", "question": "Which particle has no electric charge?", "options": ["proton", "electron", "neutron", "ion"], "correct_answer": "neutron" },
+    { "id": "chem-004", "topic": "Periodic Table", "difficulty": "easy", "question": "Elements in the same group of the periodic table have the same number of:", "options": ["neutrons", "valence electrons", "protons", "isotopes"], "correct_answer": "valence electrons" },
+    { "id": "chem-005", "topic": "Periodic Table", "difficulty": "medium", "question": "Which of these is a noble gas?", "options": ["Oxygen", "Nitrogen", "Argon", "Hydrogen"], "correct_answer": "Argon" },
+    { "id": "chem-006", "topic": "Bonding", "difficulty": "medium", "question": "A chemical bond formed by the transfer of electrons is called:", "options": ["covalent bond", "ionic bond", "metallic bond", "hydrogen bond"], "correct_answer": "ionic bond" },
+    { "id": "chem-007", "topic": "Bonding", "difficulty": "medium", "question": "Water (H₂O) is held together by:", "options": ["ionic bonds", "covalent bonds", "metallic bonds", "no bonds"], "correct_answer": "covalent bonds" },
+    { "id": "chem-008", "topic": "Acids and Bases", "difficulty": "easy", "question": "A substance with a pH of 7 is:", "options": ["acidic", "basic", "neutral", "unstable"], "correct_answer": "neutral" },
+    { "id": "chem-009", "topic": "Acids and Bases", "difficulty": "medium", "question": "Which of these is a strong acid?", "options": ["Acetic acid", "Hydrochloric acid", "Carbonic acid", "Citric acid"], "correct_answer": "Hydrochloric acid" },
+    { "id": "chem-010", "topic": "Organic Chemistry", "difficulty": "medium", "question": "The general formula for alkanes is:", "options": ["CnH2n", "CnH2n+2", "CnH2n-2", "CnHn"], "correct_answer": "CnH2n+2" },
+    { "id": "chem-011", "topic": "Organic Chemistry", "difficulty": "hard", "question": "Which functional group is present in alcohols?", "options": ["-COOH", "-OH", "-CHO", "-NH2"], "correct_answer": "-OH" },
+    { "id": "chem-012", "topic": "Chemical Reactions", "difficulty": "medium", "question": "Rusting of iron is an example of:", "options": ["reduction", "oxidation", "sublimation", "neutralization"], "correct_answer": "oxidation" },
+    { "id": "chem-013", "topic": "Chemical Reactions", "difficulty": "hard", "question": "In the reaction CaCO₃ → CaO + CO₂, what type of reaction is this?", "options": ["combination", "decomposition", "displacement", "double decomposition"], "correct_answer": "decomposition" },
+    { "id": "chem-014", "topic": "Periodic Table", "difficulty": "easy", "question": "The most electronegative element is:", "options": ["Oxygen", "Fluorine", "Chlorine", "Nitrogen"], "correct_answer": "Fluorine" },
+    { "id": "chem-015", "topic": "Atomic Structure", "difficulty": "easy", "question": "The mass number of an atom equals the number of:", "options": ["protons only", "protons + neutrons", "protons + electrons", "neutrons only"], "correct_answer": "protons + neutrons" },
+    { "id": "chem-016", "topic": "Atomic Structure", "difficulty": "hard", "question": "An atom has 17 protons and 18 neutrons. What is its mass number?", "options": ["17", "18", "35", "1"], "correct_answer": "35" },
+    { "id": "chem-017", "topic": "Chemical Reactions", "difficulty": "hard", "question": "Balance the equation: __N₂ + __H₂ → __NH₃. What are the coefficients?", "options": ["1, 3, 2", "2, 3, 1", "1, 2, 3", "3, 1, 2"], "correct_answer": "1, 3, 2" },
+    { "id": "chem-018", "topic": "Acids and Bases", "difficulty": "hard", "question": "What is the pH of a solution with hydrogen ion concentration of 1 × 10⁻³ mol/dm³?", "options": ["3", "11", "10", "7"], "correct_answer": "3" },
+    { "id": "chem-019", "topic": "Periodic Table", "difficulty": "hard", "question": "Which trend correctly describes atomic radius across a period from left to right?", "options": ["increases", "decreases", "stays constant", "increases then decreases"], "correct_answer": "decreases" },
+    { "id": "chem-020", "topic": "Organic Chemistry", "difficulty": "hard", "question": "What is the IUPAC name of CH₃-CH₂-OH?", "options": ["Methanol", "Ethanol", "Ethanal", "Ethanoic acid"], "correct_answer": "Ethanol" },
+    { "id": "chem-021", "topic": "Chemical Reactions", "difficulty": "medium", "question": "The process of a solid changing directly into a gas is called:", "options": ["evaporation", "condensation", "sublimation", "deposition"], "correct_answer": "sublimation" },
+    { "id": "chem-022", "topic": "Bonding", "difficulty": "hard", "question": "Which of these molecules has a covalent bond and is polar?", "options": ["CH₄", "H₂O", "Cl₂", "O₂"], "correct_answer": "H₂O" },
+    { "id": "chem-023", "topic": "Atomic Structure", "difficulty": "medium", "question": "Isotopes of an element differ in the number of:", "options": ["protons", "electrons", "neutrons", "valence electrons"], "correct_answer": "neutrons" },
+    { "id": "chem-024", "topic": "Organic Chemistry", "difficulty": "medium", "question": "Which of these is an example of a hydrocarbon?", "options": ["Ethanol", "Methane", "Ethanoic acid", "Ammonia"], "correct_answer": "Methane" },
+    { "id": "chem-025", "topic": "Periodic Table", "difficulty": "hard", "question": "An element X has electronic configuration 2,8,7. Which group does it belong to?", "options": ["Group 2", "Group 7", "Group 8", "Group 1"], "correct_answer": "Group 7" }
+  ]
+}

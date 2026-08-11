@@ -1,0 +1,15 @@
+[
+  { "slug": "mathematics", "name": "Mathematics", "file": "mathematics.json", "icon": "calculator", "description": "Algebra, geometry, trigonometry, statistics and number theory." },
+  { "slug": "english", "name": "English Language", "file": "english.json", "icon": "book-open", "description": "Grammar, vocabulary, comprehension and lexis & structure." },
+  { "slug": "physics", "name": "Physics", "file": "physics.json", "icon": "atom", "description": "Mechanics, electricity, waves, optics and thermodynamics." },
+  { "slug": "chemistry", "name": "Chemistry", "file": "chemistry.json", "icon": "flask-conical", "description": "Atomic structure, periodic table, bonding and organic chemistry." },
+  { "slug": "biology", "name": "Biology", "file": "biology.json", "icon": "dna", "description": "Cell biology, genetics, ecology, human anatomy and plant biology." },
+  { "slug": "economics", "name": "Economics", "file": "economics.json", "icon": "line-chart", "description": "Demand & supply, money & banking, national income and market structures." },
+  { "slug": "government", "name": "Government", "file": "government.json", "icon": "landmark", "description": "Constitution, arms of government, political parties and international relations." },
+  { "slug": "geography", "name": "Geography", "file": "geography.json", "icon": "globe", "description": "Physical geography, map reading, climate and Nigeria's geography." },
+  { "slug": "literature", "name": "Literature in English", "file": "literature.json", "icon": "feather", "description": "Drama, poetry, prose and African literature." },
+  { "slug": "commerce", "name": "Commerce", "file": "commerce.json", "icon": "shopping-cart", "description": "Trade, business organization, insurance and banking." },
+  { "slug": "accounting", "name": "Accounting", "file": "accounting.json", "icon": "receipt", "description": "Basic principles, ledgers, trial balance and financial statements." },
+  { "slug": "crs", "name": "Christian Religious Studies", "file": "crs.json", "icon": "book", "description": "Old Testament, New Testament and Christian living." },
+  { "slug": "agriculture", "name": "Agricultural Science", "file": "agriculture.json", "icon": "sprout", "description": "Crop production, soil science, animal husbandry and farm management." }
+]

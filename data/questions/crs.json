@@ -1,0 +1,30 @@
+{
+  "subject": "Christian Religious Studies",
+  "questions": [
+    { "id": "crs-001", "topic": "Old Testament", "difficulty": "easy", "question": "The first book of the Bible is:", "options": ["Exodus", "Genesis", "Leviticus", "Numbers"], "correct_answer": "Genesis" },
+    { "id": "crs-002", "topic": "Old Testament", "difficulty": "medium", "question": "Who built the ark according to the Bible?", "options": ["Abraham", "Moses", "Noah", "David"], "correct_answer": "Noah" },
+    { "id": "crs-003", "topic": "Old Testament", "difficulty": "medium", "question": "The Ten Commandments were given to:", "options": ["Abraham", "Moses", "Joshua", "Solomon"], "correct_answer": "Moses" },
+    { "id": "crs-004", "topic": "Old Testament", "difficulty": "medium", "question": "Who was sold into slavery in Egypt by his brothers?", "options": ["Jacob", "Joseph", "Benjamin", "Reuben"], "correct_answer": "Joseph" },
+    { "id": "crs-005", "topic": "New Testament", "difficulty": "easy", "question": "Jesus Christ was born in:", "options": ["Nazareth", "Jerusalem", "Bethlehem", "Galilee"], "correct_answer": "Bethlehem" },
+    { "id": "crs-006", "topic": "New Testament", "difficulty": "medium", "question": "How many disciples did Jesus choose?", "options": ["10", "11", "12", "13"], "correct_answer": "12" },
+    { "id": "crs-007", "topic": "New Testament", "difficulty": "medium", "question": "Who baptized Jesus?", "options": ["Peter", "John the Baptist", "Paul", "Andrew"], "correct_answer": "John the Baptist" },
+    { "id": "crs-008", "topic": "New Testament", "difficulty": "medium", "question": "Jesus performed His first miracle at a wedding in:", "options": ["Cana", "Nazareth", "Jerusalem", "Bethany"], "correct_answer": "Cana" },
+    { "id": "crs-009", "topic": "New Testament", "difficulty": "hard", "question": "Who denied knowing Jesus three times?", "options": ["John", "Judas", "Peter", "Thomas"], "correct_answer": "Peter" },
+    { "id": "crs-010", "topic": "Christian Living", "difficulty": "easy", "question": "The Golden Rule teaches us to:", "options": ["love only our family", "do to others as we want done to us", "avoid strangers", "seek revenge"], "correct_answer": "do to others as we want done to us" },
+    { "id": "crs-011", "topic": "Christian Living", "difficulty": "medium", "question": "The fruit of the Holy Spirit listed in Galatians includes love, joy, peace and:", "options": ["pride", "patience", "greed", "envy"], "correct_answer": "patience" },
+    { "id": "crs-012", "topic": "Old Testament", "difficulty": "easy", "question": "Who killed the giant Goliath?", "options": ["Saul", "David", "Samuel", "Solomon"], "correct_answer": "David" },
+    { "id": "crs-013", "topic": "Old Testament", "difficulty": "medium", "question": "The wisest king of Israel, known for his wisdom, was:", "options": ["Saul", "David", "Solomon", "Rehoboam"], "correct_answer": "Solomon" },
+    { "id": "crs-014", "topic": "New Testament", "difficulty": "medium", "question": "Paul's name before his conversion was:", "options": ["Silas", "Saul", "Stephen", "Barnabas"], "correct_answer": "Saul" },
+    { "id": "crs-015", "topic": "Christian Living", "difficulty": "medium", "question": "The Christian celebration of Jesus' resurrection is called:", "options": ["Christmas", "Pentecost", "Easter", "Advent"], "correct_answer": "Easter" },
+    { "id": "crs-016", "topic": "Old Testament", "difficulty": "hard", "question": "The prophet who confronted the prophets of Baal on Mount Carmel was:", "options": ["Elisha", "Elijah", "Isaiah", "Jeremiah"], "correct_answer": "Elijah" },
+    { "id": "crs-017", "topic": "New Testament", "difficulty": "hard", "question": "The Sermon on the Mount, which includes the Beatitudes, is recorded primarily in the Gospel of:", "options": ["Mark", "Matthew", "Luke", "John"], "correct_answer": "Matthew" },
+    { "id": "crs-018", "topic": "Old Testament", "difficulty": "hard", "question": "Which of the Ten Commandments instructs believers to honour their parents?", "options": ["the third", "the fifth", "the seventh", "the tenth"], "correct_answer": "the fifth" },
+    { "id": "crs-019", "topic": "New Testament", "difficulty": "hard", "question": "The book of Acts describes the spread of the early church, largely through the missionary journeys of:", "options": ["Peter", "Paul", "John", "James"], "correct_answer": "Paul" },
+    { "id": "crs-020", "topic": "Christian Living", "difficulty": "hard", "question": "According to the parable of the Good Samaritan, true neighbourliness is shown by:", "options": ["belonging to the same tribe", "acting with mercy regardless of background", "following religious law strictly", "avoiding strangers"], "correct_answer": "acting with mercy regardless of background" },
+    { "id": "crs-021", "topic": "Old Testament", "difficulty": "medium", "question": "Moses led the Israelites out of slavery in:", "options": ["Babylon", "Egypt", "Assyria", "Persia"], "correct_answer": "Egypt" },
+    { "id": "crs-022", "topic": "New Testament", "difficulty": "medium", "question": "Jesus fed a multitude of people using five loaves and:", "options": ["two fish", "three fish", "seven fish", "no fish"], "correct_answer": "two fish" },
+    { "id": "crs-023", "topic": "Christian Living", "difficulty": "medium", "question": "The Lord's Prayer teaches believers to first:", "options": ["ask for daily bread", "hallow God's name", "forgive others", "ask for deliverance"], "correct_answer": "hallow God's name" },
+    { "id": "crs-024", "topic": "Old Testament", "difficulty": "medium", "question": "Job is known in the Old Testament chiefly for his:", "options": ["wealth alone", "patience through suffering", "military victories", "prophecies"], "correct_answer": "patience through suffering" },
+    { "id": "crs-025", "topic": "New Testament", "difficulty": "medium", "question": "The first miracle Jesus performed, turning water into wine, took place at:", "options": ["a wedding in Cana", "the Jordan river", "the temple in Jerusalem", "a fishing boat"], "correct_answer": "a wedding in Cana" }
+  ]
+}
